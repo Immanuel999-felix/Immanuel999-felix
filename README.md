@@ -1,41 +1,8 @@
-<!-- Animated Header -->
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> 
-  WASI TECH
-</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Hi%2C+Welcome+To+My+Profile;10.134k+Visitors+🎉;Full+Stack+Developer;Open+Source+Contributor" alt="Typing Animation"/>
-</p>
-
-<!-- Interactive Code Block -->
-class Profile {
-  constructor() {
-    this.name = "[Your Name]";
-    this.profession = "Software Engineer";
-    this.skills = ["JavaScript", "Python", "React", "Node.js"];
-    this.interests = ["AI/ML", "Cloud Computing", "Web3"];
-    this.visitors = 10134;
-  }
-
-  displayIntro() {
-    console.log(`👋 Hello! I'm ${this.name}`);
-    console.log(`💼 ${this.profession} @ WASI TECH`);
-    console.log("🛠️ Skills:");
-    this.skills.forEach(skill => console.log(`- ${skill}`));
-    console.log("🚀 Interests:");
-    this.interests.forEach(interest => console.log(`- ${interest}`));
-    console.log(`🎉 Welcome Count: ${this.visitors.toLocaleString()}`);
-  }
-}
-
-const myProfile = new Profile();
-myProfile.displayIntro();
-# Hi there 👋, I'm [Your Name]
+# Hi there 👋, I'm Immanuelシ︎
 
 🚀 Passionate Developer | 💻 Open Source Contributor | 🎓 Lifelong Learner
 
-Welcome to my GitHub profile! I'm a [your profession/role] who loves to build amazing projects and contribute to open-source. 
+Welcome to my GitHub profile! I'm a cool guy who loves to build amazing projects and contribute to open-source. 
 
 ## 🔧 Technologies & Tools
 
@@ -47,15 +14,13 @@ Welcome to my GitHub profile! I'm a [your profession/role] who loves to build am
 
 ## 🌱 I’m currently learning
 
-- Machine Learning
-- Cloud Native Technologies
-- [Add your current learning focus]
+- JavaScript 
+- HTML 
+- python
 
 ## 👯 I’m looking to collaborate on
 
 - Open Source Projects
-- Innovative Web Applications
-- [Add your collaboration interests]
 
 ## 📈 GitHub Stats
 
@@ -75,7 +40,7 @@ Welcome to my GitHub profile! I'm a [your profession/role] who loves to build am
 
 ## ⚡ Fun fact
 
-I once [add an interesting fact about yourself]!
+I once a noob 999 for life !
 
 <!---
 Immanuel999-felix/Immanuel999-felix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
