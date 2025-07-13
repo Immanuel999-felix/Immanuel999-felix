@@ -12,15 +12,7 @@ Welcome to my GitHub profile! I'm a cool guy who loves to build amazing projects
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 
-## 🌱 I’m currently learning
-
-- JavaScript 
-- HTML 
-- python
-
-## 👯 I’m looking to collaborate on
-
-- Open Source Projects
+## 🌱 I’m currently learning 
 
 ## 📈 GitHub Stats
 
