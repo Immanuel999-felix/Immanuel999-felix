@@ -1,40 +1,52 @@
-# Hi there 👋, I'm Immanuelシ︎
+# # 🧃 I'm Realest_ice (シ︎) | 999 🕊️
 
-🚀 Passionate Developer | 💻 Open Source Contributor | 🎓 Lifelong Learner
+### Lead Architect & Developer | Based in Port Harcourt, NG 🇳🇬
 
-Welcome to my GitHub profile! I'm a cool guy who loves to build amazing projects and contribute to open-source. 
+> "Everything's going to be okay. Take it one day at a time." — 999
 
-## 🔧 Technologies & Tools
+Welcome to my digital kingdom. I specialize in building production-grade software, modular bot architectures, and high-performance web ecosystems. When I'm not coding, I'm likely head-deep in Samsung flagship specs or pushing the limits of the **King Vibez** universe.
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+---
 
-## 🌱 I’m currently learning 
+## 🔧 Stack & Arsenal
 
-## 📈 GitHub Stats
+![](https://img.shields.io/badge/Architecture-Modular_Plugins-informational?style=flat&logo=architecture&logoColor=white&color=F20505)
+![](https://img.shields.io/badge/Backend-Node.js-informational?style=flat&logo=nodedotjs&logoColor=white&color=339933)
+![](https://img.shields.io/badge/Frontend-React_/_Vite-informational?style=flat&logo=react&logoColor=white&color=61DAFB)
+![](https://img.shields.io/badge/Database-Supabase_/_SQLite3-informational?style=flat&logo=supabase&logoColor=white&color=3ECF8E)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=FCC624)
 
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/yourusername)
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/yourusername)
+## 🌱 Currently Engineering
+* ⚡ **King Vibez:** Scaling a full-stack artist ecosystem with real-time analytics.
+* 🤖 **TECHBROS-MD:** Maintaining a multi-device WhatsApp automation framework (Baileys/Node.js).
+* ⚙️ **Modular Core:** Perfecting a dynamic plugin manager for production-grade bots.
+
+---
+
+## 📈 My Vitals
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Immanuel999-felix&show_icons=true&theme=radical&hide_border=true" alt="Immanuel Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Immanuel999-felix&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+---
 
 ## 🏽 Featured Projects
 
-[![Project Name](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=reponame&theme=radical)](https://github.com/yourusername/reponame)
+* **[TECHBROS-MD](https://github.com/Immanuel999-felix/TECHBROS-MD)** - A production-grade WhatsApp bot using the Baileys library.
+* **[King-Vibez](https://github.com/Immanuel999-felix/King-Vibez)** - Modern artist portfolio with a custom Supabase-powered Admin CMS.
 
-## 📫 How to reach me
+---
 
+## 📫 Connect with the Realest
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
 
-## ⚡ Fun fact
+---
 
-I once a noob 999 for life !
-
-<!---
-Immanuel999-felix/Immanuel999-felix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## ⚡ Fun Fact
+I don't just build software; I build experiences. 
+**Realest_ice シ︎** — Turning negative energy into 999 positive output. 
